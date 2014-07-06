@@ -51,7 +51,7 @@ function update () {
 
 	//if (Math.random() > 0.9) {
 		// Draw our bolt
-		for (var i=0;i<10;i++)
+		for (var i=0;i<6;i++)
 			drawBolt(64/(i+1), html5.canvas.height/2);
 	//}
 
